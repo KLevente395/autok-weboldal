@@ -1,1 +1,13 @@
+.kek{
+	font-family: Arial !important;
+	text-decoration: underline !important;
+	background-color: blue !important;
+}
 
+.sarga{
+	font-family: Arial !important;
+	font-weight: bold !important;
+	font-style: italic !important;
+	background-color: black !important;
+	color: yellow !important; 
+}
